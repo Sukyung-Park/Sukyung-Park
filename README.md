@@ -21,3 +21,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
 </div>
 
+# 📊GitHub Stats :
+
+![Sukyung-Park's github stats](https://github-readme-stats.vercel.app/api?username=Sukyung-Park&show_icons=true)
