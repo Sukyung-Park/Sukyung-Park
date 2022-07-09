@@ -22,6 +22,12 @@
 
 </div>
 
+<h3>수료한 언어</h3>
+<div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+
+</div>
+
 # 📊GitHub Stats :
 
 ![Sukyung-Park's github stats](https://github-readme-stats.vercel.app/api?username=Sukyung-Park&show_icons=true)
