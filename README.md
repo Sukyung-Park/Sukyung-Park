@@ -25,6 +25,7 @@
 <h3>수료한 언어</h3>
 <div>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 
 </div>
 
