@@ -22,7 +22,7 @@
 
 </div>
 
-<h3>수료한 언어</h3>
+<h3>기본과정 수료한 언어</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 
