@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Sukyun&fontSize=60)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Sukyung&fontSize=60)<br>
 <h2>✨Hello, I'm SuKyung!✨</h2>
 미래의 프론트엔드 개발자 박수경 입니다 :D<br>
 "You just need to believe in yourself." <br><br>
