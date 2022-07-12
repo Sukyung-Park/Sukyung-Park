@@ -1,5 +1,15 @@
 
-<h1 align="center"> Sukyung-Park</h1>
+<div align="center">
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Sukyung Park&fontSize=60)<br>
+<h2>✨Hello, I'm SuKyung!✨</h2>
+미래의 프론트엔드 개발자 박수경 입니다 :D<br>
+"You just need to believe in yourself." <br><br>
+<img src="https://user-images.githubusercontent.com/98381511/177118622-fa4a4ed6-fa33-401a-a29e-743bc9349228.gif" width="50%">
+
+
+<br>
 
 <h3>🚚출발</h3>
 개발 공부를 시작한지 6개월정도 되었습니다.
